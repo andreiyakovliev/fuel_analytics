@@ -1,0 +1,19 @@
+# secrets
+.env
+.env.*
+
+# database
+*.db
+
+# python
+venv/
+__pycache__/
+*.pyc
+
+# frontend
+node_modules/
+dist/
+
+# test leftovers
+trip.json
+body.json
